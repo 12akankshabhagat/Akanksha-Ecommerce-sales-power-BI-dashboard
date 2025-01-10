@@ -1,6 +1,5 @@
 # Akanksha-Ecommerce-sales-power-BI-dashboard
 
-
 ## Project Overview
 This repository contains a Power BI interactive dashboard for analyzing e-commerce sales data. The dashboard was created using data from two CSV files: `details.csv` and `orders.csv`. The primary objective of this project is to provide an interactive and user-friendly visualization of key sales metrics, enabling better decision-making.
 
