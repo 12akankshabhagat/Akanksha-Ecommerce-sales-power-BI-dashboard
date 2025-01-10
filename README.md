@@ -1,5 +1,6 @@
 # Akanksha-Ecommerce-sales-power-BI-dashboard
 
+
 ## Project Overview
 This repository contains a Power BI interactive dashboard for analyzing e-commerce sales data. The dashboard was created using data from two CSV files: `details.csv` and `orders.csv`. The primary objective of this project is to provide an interactive and user-friendly visualization of key sales metrics, enabling better decision-making.
 
@@ -8,9 +9,15 @@ This repository contains a Power BI interactive dashboard for analyzing e-commer
 - **Data Integration**: Data from multiple tables (`details.csv` and `orders.csv`) was joined and connected to create a unified dataset for analysis.
 - **Calculated Columns and Measures**: Custom calculations were implemented to manipulate data and derive insights.
 - **Visualization Types**:
-  - Bar Charts
-  - Donut Charts
-  - Line Charts
+- waterfall chart for Profit & Loss.
+- Stacked Bar Chart for Profit by Subcategory.
+- Donut Chart for Payment Mode.
+- Stacked Bar chart for State.
+- Stacked column chart for Top 5 customer Name.
+- Donut chart for Sum Of Quantity by Category.
+- used Card for Sum of Amount, Sum of Profit, Sum of Quantity, Sum of Average Order Value.
+- Slicer for Quarter Analysis & State vise Analysis. 
+
 
 ## Metrics and Insights
 - **Key Performance Indicators (KPIs)**:
@@ -34,8 +41,7 @@ This repository contains a Power BI interactive dashboard for analyzing e-commer
 - **CSV Data Files**: `details.csv` and `orders.csv`.
 
 
-## Screenshots
-![Dashboard Screenshot](link_to_screenshot.png)
+
 
 ## Author
 Created by **Akanksha Bhagat**.
